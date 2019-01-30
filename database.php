@@ -6,7 +6,7 @@ class Database
 	private static $dbName = 'brhowey355wi19' ; 
 	private static $dbHost = '10.8.30.49' ;
 	private static $dbUsername = 'brhowey355wi19';
-	private static $dbUserPassword = '';
+	private static $dbUserPassword = 'SvsuPassword';
 	
 	private static $cont  = null;
 	
