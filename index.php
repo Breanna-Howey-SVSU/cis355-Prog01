@@ -1,16 +1,22 @@
 <!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"
-            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            integrity="sha256-FgpCb/KJQ1LNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
             crossorigin="anonymous"></script>
     <link   href="css/bootstrap.min.css" rel="stylesheet">
+    <link   href="css/bootstrap.min.css" rel="stylesheet">
     <script src="js/bootstrap.min.js"></script>
+    
 </head>
 
 <body>
     <div class="container">
-    		<div class="row">
+    <p>
+        <a href="https://github.com/brhowey/cis355-Prog01">GitHub Repo</a>
+    </p>
+    <div class="row">
     			<h3>PHP CRUD Grid</h3>
     		</div>
 			<div class="row">
